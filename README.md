@@ -20,10 +20,10 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] User can use the vertical orientation of the app on any device
-- [ ] User can track the question they are on and how many questions are left
-- [ ] User can see how many questions they got correct after answering all questions
-- [ ] User should be able to restart the game after they've finished answering all questions
+- [x] User can use the vertical orientation of the app on any device
+- [x] User can track the question they are on and how many questions are left
+- [x] User can see how many questions they got correct after answering all questions
+- [x] User should be able to restart the game after they've finished answering all questions
 
 The following **additional** features are implemented:
 
